@@ -138,4 +138,16 @@ Attention-based pooling over protein sets
 
 Corrupted-positive negative sampling
 
+---
+#### Key Methodological Features
+
+- Multi-head Graph Attention Networks
+- Degree-matched negative sampling
+- Label smoothing for link prediction
+- Sequence-similarity–aware splitting
+- Centroid-normalized ESM initialization
+
+#### License
+Released under the MIT License.
+
 
