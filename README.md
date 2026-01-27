@@ -1,6 +1,6 @@
 # GATSBI-embedding
 
-Associated Zenodo data files: 
+Associated data files can be found in Zenodo: https://doi.org/10.5281/zenodo.18332051
 
 <img width="3359" height="1062" alt="figure_overview" src="https://github.com/user-attachments/assets/f9fa2252-cbc4-4c81-8ba6-8b1a3c4054fe" />
 
